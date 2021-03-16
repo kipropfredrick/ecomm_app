@@ -389,7 +389,7 @@
 								<li><a href="#">Company Information</a></li>
 								<li><a href="#">Careers</a></li>
 								<li><a href="#">Store Location</a></li>
-								<li><a href="#">Affillate Program</a></li>
+								<!-- <li><a href="#">Affillate Program</a></li> -->
 								<li><a href="#">Copyright</a></li>
 							</ul>
 						</div>
@@ -413,7 +413,7 @@
 			<div class="container">
 				<div class="row">
 					<p class="pull-left">Copyright © 2021. Online-Shoping Inc. All rights reserved.</p>
-					<p class="pull-right">Develop by <span><a target="_blank" href="#">Fredrick Biwott</a></span></p>
+					<p class="pull-right">Develop by <span><a target="_blank" href="#">Fredrick kiprop</a></span></p>
 				</div>
 			</div>
 		</div>
